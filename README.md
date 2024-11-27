@@ -1,6 +1,11 @@
 Here's the data that you will work with:
+
+
 X chromosome data (.zip file, size = ~715 MB).(https://ece.iisc.ac.in/~rajeshs/E0259/chrX_bwt.zip)
+
 The "README" file in the directory has information on the files.
+
+
 Your assignment is the following. Given the following:
 (a) reads from a genome – 3 million reads of the 150m we actually generated,
 (b) the reference sequence of chromosome X – 150m instead of 3b for the whole genome,
